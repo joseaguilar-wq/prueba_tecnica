@@ -14,7 +14,7 @@ Debes desarrollar un script (Python preferentemente) que automatice las siguient
 ## Consideraciones Generales
 * **Uso de IA:** Está permitido el uso de herramientas como ChatGPT, Claude o Copilot. Sin embargo, recuerda que tú eres el responsable de la validez de los resultados.
 * **Privacidad:** No compartas datos sensibles de la empresa en prompts públicos (en este caso, los datos son simulados).
-* **Pensamiento Crítico:** Si encuentras inconsistencias en los datos de origen, tu script debe ser capaz de detectarlas y manejarlas sin detenerse, pero notificando el error.
+
 
 ## Entregables
 1. **Código fuente:** Limpio y documentado.
