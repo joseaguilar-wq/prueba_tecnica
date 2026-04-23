@@ -1,0 +1,22 @@
+ID_Maquinaria,Fecha,Litros_Cargados,Horometro_Actual,Operador,Turno
+EX-301,2024-07-01,210,2450,Carlos Mendoza,Matutino
+EX-301,2024-07-02,195,2458,Carlos Mendoza,Matutino
+EX-301,2024-07-03,205,2467,Carlos Mendoza,Matutino
+EX-301,2024-07-04,190,2475,Luis Torres,Vespertino
+EX-301,2024-07-05,200,2483,Luis Torres,Vespertino
+EX-301,2024-07-06,185,2491,Luis Torres,Vespertino
+EX-301,2024-07-07,195,2499,Carlos Mendoza,Matutino
+EX-405,2024-07-01,200,1000,Ramón Guerrero,Matutino
+EX-405,2024-07-02,180,1008,Ramón Guerrero,Matutino
+EX-405,2024-07-03,220,950,Ramón Guerrero,Matutino
+EX-405,2024-07-04,175,958,Ramón Guerrero,Matutino
+EX-405,2024-07-05,190,966,Pedro Salinas,Vespertino
+EX-405,2024-07-06,185,974,Pedro Salinas,Vespertino
+EX-405,2024-07-07,180,982,Pedro Salinas,Vespertino
+EX-512,2024-07-01,230,3800,Jorge Vidal,Matutino
+EX-512,2024-07-02,245,3808,Jorge Vidal,Matutino
+EX-512,2024-07-03,260,3816,Jorge Vidal,Matutino
+EX-512,2024-07-04,0,3816,Jorge Vidal,Matutino
+EX-512,2024-07-05,510,3824,Jorge Vidal,Matutino
+EX-512,2024-07-06,255,3832,Jorge Vidal,Matutino
+EX-512,2024-07-07,248,3840,Jorge Vidal,Matutino
